@@ -21,7 +21,9 @@ This app is a dice game tutored by Jonas Schmedtmann on his Udemy's course ["The
 ## :camera: Screenshots
 
 ![screenshot-1](https://user-images.githubusercontent.com/29850573/109193845-8fa99000-7777-11eb-81c8-1b3bdf747a6e.png)
+
 ![screenshot-2](https://user-images.githubusercontent.com/29850573/109193896-9b955200-7777-11eb-96e3-be17d1773f3a.png)
+
 ![screenshot-3](https://user-images.githubusercontent.com/29850573/109193935-a94ad780-7777-11eb-8780-b0f2d33c87df.png)
 
 ## :alarm_clock: Status
